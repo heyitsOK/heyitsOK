@@ -2,7 +2,7 @@
 <h1 align="center">Hey 👋, I'm Omar Khan</h1>
 <h3 align="center">A web developer, computer science student, and creative professional</h3>
 <br><br>
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/ac/27/99/ac27991aa4507594b8da818dea744598.gif">
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/28/bc/7d/28bc7dc21f732dce0e021009581412aa.gif">
 
 - 🔭 I’m currently working on **many projects in a variety of languages**
 
