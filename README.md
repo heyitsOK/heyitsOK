@@ -1,6 +1,7 @@
 [![MasterHead](https://media4.giphy.com/headers/colorful-courier/ammr2uN8JUE3.gif)](https://rishavchanda.io)
 <h1 align="center">Hey 👋, I'm Omar Khan</h1>
 <h3 align="center">A web developer, computer science student, and creative professional</h3>
+<br><br>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/ac/27/99/ac27991aa4507594b8da818dea744598.gif">
 
 - 🔭 I’m currently working on **many projects in a variety of languages**
