@@ -1,12 +1,12 @@
-<h2 align="center">Hey 👋, I'm Omar Khan</h2>
-<div align="center">
+<h2>Hey 👋, I'm Omar Khan</h2>
+<div>
   <br>
   I am a Computer Science student at Carleton University and member of the Internal Tech Team at Carleton Blueprint. Previously worked on the WaveRouter platform at Ciena as a Software Developer Intern. I have experience in Software and Web Development and I am always looking for new opportunities and challenges to tackle. I'm currently working with the Internal Tech Team on updating the Carleton Blueprint website with a new front and backend using a more modern tech stack.
 </div>
 
 <br><br>
 
-<div align="center">
+<div>
   Connect with me on LinkedIn
   <br>
 
@@ -14,8 +14,8 @@
 
 </div>
 
-<h3 align="center">Languages and Tools:</h3>
-<div align="center">
+<h3>Languages and Tools:</h3>
+<div>
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
