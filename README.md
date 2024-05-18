@@ -7,10 +7,11 @@
 <br><br>
 
 <div>
-  Connect with me on LinkedIn
+  Find me on: 
   <br>
 
   [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-khan-ottawa)
+  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/omark_photography/)
 
 </div>
 
