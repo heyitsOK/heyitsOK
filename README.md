@@ -1,6 +1,6 @@
 <h2>Hey 👋, I'm Omar Khan</h2>
 <div>
-  I'm a Computer Science student at Carleton University and a Lead Developer for the Internal Tech Team at Carleton Blueprint. Currently working on the WaveRouter platform at Ciena as a Software Developer Intern. I have experience in Software and Web Development and I am always looking for new opportunities and challenges to tackle. I recently updated the Carleton Blueprint website with a new front and backend using a more modern tech stack and now I've moved on to work on a cool new project for the Internal Tech Team.
+  I'm a Computer Science student at Carleton University and a Lead Developer for the Internal Tech Team at Carleton Blueprint. Currently working on the CNN/CTV team at Warner Bros. Discovery as a Software Developer Intern. I have experience in Software and Web Development and I am always looking for new opportunities and challenges to tackle. I recently updated the Carleton Blueprint website with a new front and backend using a more modern tech stack and now I've moved on to work on a cool new project for the Internal Tech Team.
 </div>
 
 <br>
